@@ -6,3 +6,7 @@ like a dimond in the sky
  ''')
 
 print("hello world \"hi\"")
+
+a, b = int(input("Enter a number")), int(input("Enter a number"))
+
+total = eval(a, b)
